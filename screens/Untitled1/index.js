@@ -42,7 +42,7 @@ const Untitled1 = () => {
       position: "absolute",
       height: 60,
       width: 140,
-      backgroundColor: "#E4E4E4",
+      backgroundColor: "#b6219e",
       borderRadius: 0,
       color: "#777777"
     }}></View></View>;
