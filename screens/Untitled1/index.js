@@ -1,51 +1,30 @@
+import { StyleSheet } from "react-native";
 import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
 const Untitled1 = () => {
-  return <View style={{
-    backgroundColor: '#f0f0f1',
-    padding: 10,
-    position: 'relative',
-    height: '100%'
-  }}>
-      <View style={{
-      left: 76,
-      top: 124,
-      position: "absolute",
-      height: 60,
-      width: 140,
-      backgroundColor: "#E4E4E4",
-      borderRadius: 0,
-      color: "#777777"
-    }}></View><Text style={{
-      left: 80,
-      top: 293,
-      position: "absolute",
-      width: 100,
-      height: 50,
-      lineHeight: 14,
-      fontSize: 14,
-      borderRadius: 0
-    }}>Lorem ipsum…</Text><View style={{
-      left: 135,
-      top: 365,
-      position: "absolute",
-      height: 60,
-      width: 140,
-      backgroundColor: "#E4E4E4",
-      borderRadius: 0,
-      color: "#777777"
-    }}></View><View style={{
-      left: 142,
-      top: 475,
-      position: "absolute",
-      height: 60,
-      width: 140,
-      backgroundColor: "#b6219e",
-      borderRadius: 0,
-      color: "#777777"
-    }}></View></View>;
+  return <View style={_styles.rBObOuRh}>
+      <View style={_styles.rBObOuRh}></View><Text style={_styles.rBObOuRh}>Lorem ipsum…</Text><View style={_styles.rBObOuRh}></View><View style={_styles.rBObOuRh}></View><View style={_styles.aBcsTVzT}></View></View>;
 };
 
 export default Untitled1;
+
+const _styles = StyleSheet.create({
+  rBObOuRh: {
+    backgroundColor: "#f0f0f1",
+    padding: 10,
+    position: "relative",
+    height: "100%"
+  },
+  aBcsTVzT: {
+    left: 61.73009980791052,
+    top: 189.93876863972469,
+    position: "absolute",
+    height: 60,
+    width: 140,
+    backgroundColor: "#bd1313",
+    borderRadius: 0,
+    color: "#777777"
+  }
+});
