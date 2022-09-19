@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import mods from "./*/index.js";
 import { getModules } from "./modules.js";
 export const modules = getModules(mods);

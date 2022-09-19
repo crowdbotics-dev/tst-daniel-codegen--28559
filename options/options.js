@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 export const globalOptions = {
   name: "tst_daniel_codegen__28559",
   url: "https://tst_daniel_codegen__28559.botics.co",

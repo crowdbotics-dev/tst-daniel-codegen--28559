@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import { YourAppModule } from "./yourapp";
 
 const sortNavigators = (a, b) => {

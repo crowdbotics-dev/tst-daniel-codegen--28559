@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import mods from "./*/index.js";
 export const screens = mods.map(mod => {
   return Object.assign(mod, {

@@ -1,4 +1,3 @@
-import { StyleSheet } from "react-native";
 import React from "react";
 import opts from "./../modules/*/options.js";
 import { modulesOptions, globalOptions } from "./options";
