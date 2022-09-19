@@ -3,12 +3,12 @@ import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
-const Untitled1 = () => {
+const Untitled11 = () => {
   return <View style={_styles.rBObOuRh}>
       <View style={_styles.rBObOuRh}></View><Text style={_styles.rBObOuRh}>Lorem ipsum…</Text><View style={_styles.rBObOuRh}></View><View style={_styles.rBObOuRh}></View><View style={_styles.aBcsTVzT}></View></View>;
 };
 
-export default Untitled1;
+export default Untitled11;
 
 const _styles = StyleSheet.create({
   rBObOuRh: {
