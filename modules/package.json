@@ -1,10 +1,8 @@
 {
-  "name": "@modules",
+  "name": "@modules/articles",
   "version": "1.0.0",
-  "description": "",
+  "description": "Module for articles lists and details pages.",
   "private": true,
   "main": "index.js",
-  "files": ["*"],
-  "author": "Crowdbotics",
-  "license": "ISC"
+  "author": "Crowdbotics"
 }
